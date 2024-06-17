@@ -17,7 +17,7 @@ Emotioner is an Android application designed to analyze images and predict the e
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/MyApplication.git
+    git clone https://github.com/barlakshan/MyApplication.git
     ```
 
 2. Open the project in Android Studio.
